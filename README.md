@@ -1,11 +1,11 @@
 <p align="center">
-<a href="https://github.com/0xADev/BWFilter"><img width="256px" height="256px" alt="https://github.com/0xADev/BWFilter" src="./img/icon.png"></a>
+<a href="https://github.com/firedragon9511/BWFilter"><img width="256px" height="256px" alt="https://github.com/firedragon9511/BWFilter" src="./img/icon.png"></a>
 </p>
 
 
 # BWFilter
 
-With the BWFilter solution from VinforLab Team you can censor !@#$% users, it's the end of profanity in your games, chats or apps. It is the end of rude #$#@$%@ users. Now you can say "!@#$ you rude users". The anti-swear filter is very simple and flexible and doesn't have many files in the library like many other repositories do.
+With the BWFilter solution from firedragon9511 you can censor !@#$% users, it's the end of profanity in your games, chats or apps. It is the end of rude #$#@$%@ users. Now you can say "!@#$ you rude users". The anti-swear filter is very simple and flexible and doesn't have many files in the library like many other repositories do.
 
 !@#$% !@#$% !@#$% !@#$% !@#$% !@#$% !@#$%
 
@@ -136,8 +136,8 @@ Not Detected:
 - [License][1]
 - [Look library][2]
 
-[1]: https://github.com/0xADev/BWFilter/blob/main/LICENSE.md
-[2]: https://github.com/0xADev/BWFilter/blob/main/lib/bw_filter.js
+[1]: https://github.com/firedragon9511/BWFilter/blob/main/LICENSE.md
+[2]: https://github.com/firedragon9511/BWFilter/blob/main/lib/bw_filter.js
 
 
 
