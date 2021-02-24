@@ -11,5 +11,5 @@ module.exports.BWFilter = require('./lib/bw_filter.js').BWFilter;
 fs.readFile("LICENSE.md", "utf8", function(e,d){
     console.log(BWFilter.FilterWhiteList(d,BWFilter.defaultWhiteList));
 });*/
-
+ 
 
