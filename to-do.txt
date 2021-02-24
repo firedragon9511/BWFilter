@@ -1,0 +1,13 @@
+- Opção para detectar se palavra tem um par (pode ser par de 3, 4 e etc)
+
+    Exemplo:
+
+        you are just a dog
+
+        Pair/Collection: ["you","are","dog"]
+
+- Opção para não nescessitar ser apenas grawlix, mas o programador pode escolher pelo que censurar, por exemplo: [CENSURED]
+
+- Opcão pra bloquear emails e telefones
+
+- Colocar tudo em um dicionário em arquivo separado
