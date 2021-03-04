@@ -5,7 +5,7 @@
 
 # BWFilter
 
-With the BWFilter solution from firedragon9511 you can censor !@#$% users, it's the end of profanity in your games, chats or apps. It is the end of rude #$#@$%@ users. Now you can say "!@#$ you rude users". The anti-swear filter is very simple and flexible and doesn't have many files in the library like many other repositories do.
+With my BWFilter module you can censor bad words. This module uses many smart algorithms for block bad words. Two methods are available: Black-List-Excluding and White-List-Only methods.
 
 !@#$% !@#$% !@#$% !@#$% !@#$% !@#$% !@#$%
 
