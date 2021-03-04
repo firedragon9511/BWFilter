@@ -5,7 +5,7 @@
 
 # BWFilter
 
-With my BWFilter module you can censor bad words. This module uses many smart algorithms for block bad words. Two methods are available: Black-List-Excluding and White-List-Only methods.
+With my BWFilter module you can censor bad words. This module uses many smart algorithms for block bad words or black listed words. Two methods are available: Black-List-Excluding and White-List-Only methods.
 
 !@#$% !@#$% !@#$% !@#$% !@#$% !@#$% !@#$%
 
